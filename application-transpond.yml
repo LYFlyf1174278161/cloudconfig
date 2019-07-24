@@ -1,7 +1,3 @@
-server:
-  tomcat:
-    max-threads: 20
-    min-spare-threads: 5  
 logging:
   level:
     com:
