@@ -78,7 +78,7 @@ management:
     enabled: false
     
 #统一错误地址
-errorUrl: http://127.0.0.1/epatient/#/error
+errorUrl: http://192.168.0.118/epatient/#/error
 
 #服务监控，心跳服务配置
 monitor:
